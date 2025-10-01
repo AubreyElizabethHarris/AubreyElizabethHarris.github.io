@@ -3,7 +3,7 @@ body {
     font-family: 'Times New Roman', Times, serif;
 }
 h1 {
-    color: darkslateblue;
+    color: darkblue;
     text-align: center;
 }
 .about {
@@ -12,7 +12,7 @@ h1 {
 .skills {
     color: darkslategray;
 }
-.project {
+.projects {
     color: darkslategray;
 }
 .contact {
