@@ -3,18 +3,18 @@ body {
     font-family: 'Times New Roman', Times, serif;
 }
 h1 {
-    color: darkblue;
+    color: navy;
     text-align: center;
 }
 .about {
-    color: darkslategray;
+    color: navy;
 }
 .skills {
-    color: darkslategray;
+    color: navy;
 }
 .projects {
-    color: darkslategray;
+    color: navy;
 }
 .contact {
-    color: darkslategray;
+    color: navy;
 }
