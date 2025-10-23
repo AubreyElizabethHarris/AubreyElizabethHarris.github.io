@@ -19,3 +19,11 @@ h1 {
 .contact {
     color: navy;
 }
+.projects { display:flex; flex-wrap:wrap; } /* condensed to save space */
+.project {
+width: 30%;
+margin: 10px;
+padding: 20px 10px;
+background: white; /* pick a color */
+border-radius: 25%;
+}
