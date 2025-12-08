@@ -1,7 +1,21 @@
+.about, .skills, .projects, .contact {
+    margin-bottom: 40px;
+}
 body {
     background: slategray;
-    color: navy;
+    color: black;
     font-family: 'Times New Roman', Times, serif;
+    padding: 20px 40px;
+    line-height: 1.6;
+    max-width: 1000px;
+    margin: auto;
+}
+h2 {
+    color: navy;
+    border-bottom: 2px solid navy;
+    padding-bottom: 5px;
+    width: fit-content;
+    margin-top: 40px;
 }
 h1 {
     color: navy;
@@ -43,6 +57,11 @@ color: purple;
 text-align: center;
 margin: 15px;
 }
-h3 {
-    text-align: center
+a {
+    color: navy;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover {
+    color: rgb(247, 231, 91);
 }
