@@ -10,28 +10,32 @@ body {
     max-width: 1000px;
     margin: auto;
 }
+.project h3 {
+    text-align: center;
+    margin: 10px 0;
+}
 h2 {
-    color: navy;
-    border-bottom: 2px solid navy;
+    color: black;
+    border-bottom: 2px solid black;
     padding-bottom: 5px;
     width: fit-content;
     margin-top: 40px;
 }
 h1 {
-    color: navy;
+    color: black;
     text-align: center;
 }
 .about {
-    color: navy;
+    color: black;
 }
 .skills {
-    color: navy;
+    color: black;
 }
 .projects {
-    color: navy;
+    color: black;
 }
 .contact {
-    color: navy;
+    color: black;
 }
 .projects { display:flex; flex-wrap:wrap; } /* condensed to save space */
 .project {
